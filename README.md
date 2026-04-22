@@ -18,7 +18,7 @@ The datasets used in this project are not included in the repository due to size
 
 Please download them manually:
 
-- Legitimate URLs (Tranco Top 1M): https://tranco-list.eu  
+- Legitimate URLs dataset (Tranco Top 1M): https://tranco-list.eu  
 - Phishing URLs dataset (Kaggle): https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls
 
 After downloading, place the files in the project directory.
