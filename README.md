@@ -25,18 +25,18 @@ After downloading, place the files in the project directory.
 Make sure the filenames match exactly:
 - `top-1m.csv`
 - `phishing_site_urls.csv`
+
 Otherwise, update the file paths in the script accordingly.
 
 ## Setup
 - Clone the Repo:
-bash
 git clone https://github.com/your-username/phishing-url-detector.git
 cd phishing-url-detector
-- Install Dependencies
-bash
+
+- Install Dependencies:
 pip install -r requirements.txt
+
 -Run:
-bash
 python detection_model.py https://example.com
 
 # Conclusion
