@@ -34,9 +34,13 @@ Otherwise, update the file paths in the script accordingly.
 ```bash
 git clone https://github.com/your-username/phishing-url-detector.git
 cd phishing-url-detector
-
+```
+### 2. Install Dependencies
+```bash
 pip install -r requirements.txt
-
+```
+### 3. Run the model
+```bash
 python detection_model.py https://example.com
 ```
 ## Conclusion
