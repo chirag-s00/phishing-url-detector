@@ -28,7 +28,7 @@ Make sure the filenames match exactly:
 
 Otherwise, update the file paths in the script accordingly.
 
-## ⚙️ Setup
+## Setup
 
 ### 1. Clone the repository
 ```bash
