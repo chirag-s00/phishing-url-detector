@@ -28,17 +28,17 @@ Make sure the filenames match exactly:
 
 Otherwise, update the file paths in the script accordingly.
 
-## Setup
-- Clone the Repo:
+## ⚙️ Setup
+
+### 1. Clone the repository
+```bash
 git clone https://github.com/your-username/phishing-url-detector.git
 cd phishing-url-detector
 
-- Install Dependencies:
 pip install -r requirements.txt
 
--Run:
 python detection_model.py https://example.com
-
+```
 ## Conclusion
 The model achieves high accuracy on structured datasets but may face generalization issues in real-world scenarios. This highlights the limitations of relying solely on URL-based features for phishing detection.
 
